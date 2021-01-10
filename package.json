@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.12.9",
+    "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.7",
-    "@babel/preset-react": "^7.12.7"
+    "@babel/preset-react": "^7.12.10"
   },
   "dependencies": {
     "react": "^17.0.1",

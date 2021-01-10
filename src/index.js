@@ -1,14 +1,8 @@
-import React from "react"
-import ReactDOM from "react-dom"
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./App.js";
 
+ReactDOM.render(<App/>, document.getElementById("app"));
 
-console.log("ok!")
+    
 
-function  App() {
-	return (
-		<h1>titolo</h1>
-	)
-}
-
-var rootNode = document.getElementById("app")
-ReactDOM.render(<App/>,rootNode)
